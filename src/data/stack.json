@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "text": "All"
+  },
+  {
+    "id": 2,
+    "text": "fullstack"
+  },
+  {
+    "id": 3,
+    "text": "frontend"
+  },
+  {
+    "id": 4,
+    "text": "backend"
+  }
+]
