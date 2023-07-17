@@ -27,10 +27,10 @@ const HeaderOne = ({btnStyle, HeaderSTyle}) => {
                 <div className="container position-relative">
                     <div className="row align-items-center row--0">
                         <div className="col-lg-3 col-md-6 col-4">
-                            <Logo 
+                            {/* <Logo 
                                 image={`${process.env.PUBLIC_URL}/images/logo/logo.png`}
                                 image2={`${process.env.PUBLIC_URL}/images/logo/logo-dark.png`}
-                            />
+                            /> */}
                         </div>
                         <div className="col-lg-9 col-md-6 col-8 position-static">
                             <div className="header-right">
