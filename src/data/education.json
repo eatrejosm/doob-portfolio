@@ -2,18 +2,18 @@
   {
     "id": 1,
     "university": "Universidad Internacional de Las Americas (UIA)",
-    "bachelor": "Bachelor's in Software Engineering, Colombia",
+    "bachelor": "Bachelor's in Software Engineering, Costa Rica",
     "description": "Actively pursuing education in software engineering to obtain a Bachelor’s degree this year."
   },
   {
     "id": 2,
     "university": "Fundatec",
-    "bachelor": "Web Design and Graphic Design 2008 - 2009, Colombia",
+    "bachelor": "Web Design and Graphic Design 2008 - 2009, Costa Rica",
     "description": "One year program that provided web and graphic design experience."
   },
   {
     "id": 3,
-    "university": "Colegio Nuestra Señora de Sion 2000 - 2004, Colombia",
+    "university": "Colegio Nuestra Señora de Sion 2000 - 2004, Costa Rica",
     "bachelor": "",
     "description": ""
   }
