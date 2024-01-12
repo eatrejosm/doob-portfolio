@@ -15,3 +15,4 @@
 !.vscode/extensions.json
 backend/.env
 doob-portfolio-frontend/.env
+node_modules
