@@ -1,0 +1,43 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model ContactData {
+  id                Int @id @default(autoincrement())
+  name              String
+  email             String
+  phone             String
+  subject           String
+  yourmessage       String
+  created_at        DateTime @default(now())
+}
+
+model Project {
+  id                Int @id @default(autoincrement())
+  title             String
+  role              String
+  date              String
+  description       String
+  images            Image[]
+}
+
+model Image {
+  id               Int @id @default(autoincrement())
+  url              String
+  project_id       Int
+  project          Project @relation(fields:[project_id], references: [id])
+}
+
+enum ProjectType {
+  Fullstack
+  Frontend
+  Backend
+} 
