@@ -11,9 +11,9 @@ const AboutSix = () => {
         <div className="wrapper theme-shape">
           <div className="row align-items-center">
             <div className="col-lg-4 col-md-6 col-12">
-              <div className="thumbnail text-start text-lg-center">
+              {/* <div className="thumbnail text-start text-lg-center">
                 <img src="./images/about/about-logo.png" alt="About images" />
-              </div>
+              </div> */}
             </div>
             <div className="col-lg-8 col-md-6 col-12 mt_sm--30">
               <div className="inner">

@@ -25,7 +25,7 @@ export class CreateContactSubmissionDto {
 
     @IsString()
     @IsNotEmpty()
-    @MinLength(50)
+    @MaxLength(500)
     @ApiProperty()
     message: string
 }

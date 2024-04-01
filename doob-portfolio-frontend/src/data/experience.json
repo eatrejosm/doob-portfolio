@@ -1,9 +1,31 @@
 [
   {
+    "id": 0,
+    "company": "Double Nines Contractor and Future",
+    "role": "Freelance Full Stack Developer",
+    "stack": "fullstack",
+    "date": "January 2024 - to this day",
+    "image": "/showcase.jpg",
+    "responsibilities": [
+      "Utilizing NextJS and NodeJS, I spearhead efficient backend development, optimizing performance and scalability. Streamlining database interactions with Prisma commands ensures a seamless flow of data, supported by PostgreSQL as our robust database management system. Integration of Clever API and Google Single Sign-On enhances user management and authentication processes. Leveraging Google Cloud services further enhances our backend architecture, ensuring reliability and scalability.In the frontend realm, I bring React applications to life using TypeScript, ensuring a robust and type-safe codebase. The UI is crafted with finesse using ChakraUI, providing a modern and highly customizable user interface. For state management, I implement Redux Toolkit, ensuring efficient handling of application state. To elevate data visualization, React-ApexCharts is seamlessly integrated, offering visually compelling representations of complex data. Security is paramount, and for robust user management, I incorporate Auth0, ensuring secure authentication and authorization processes."
+    ]
+  },
+  {
     "id": 1,
+    "company": "Nearix Contractor Solutions",
+    "role": "Freelance Sr Full stack Developer",
+    "stack": "fullstack",
+    "date": "February 2022 – February 2023",
+    "image": "/com.jpg",
+    "responsibilities": [
+      "Leveraging NestJS, I spearhead efficient backend development, optimizing performance and scalability. I streamline database interactions with Prisma commands, ensuring a seamless flow of data. PostgreSQL serves as our robust database management system, providing a solid foundation for our backend operations. To further enhance our architecture, I integrate AWS Lambdas and leverage CloudWatch EventBridge, enabling dynamic creation and effective management of Lambdas within the NestJS framework. In the frontend realm, I bring React applications to life using TypeScript, ensuring a robust and type-safe codebase. The UI is crafted with finesse using ChakraUI, providing a modern and highly customizable user interface. For state management, I implement Redux Toolkit, ensuring efficient handling of application state. To elevate data visualization, React-ApexCharts is seamlessly integrated, offering visually compelling representations of complex data. Security is paramount, and for robust user management, I incorporate Auth0, ensuring secure authentication and authorization processes. Our specialization lies in crafting CRM systems tailored specifically for automotive dealerships. This focused approach allows us to address industry-specific needs, providing tailored solutions that align seamlessly with the unique requirements of automotive businesses. Through our comprehensive backend and frontend development, we aim to revolutionize CRM systems, offering unparalleled efficiency and functionality for our clients in the automotive sector."
+    ]
+  },
+  {
+    "id": 2,
     "company": "Nelnet student loan servicer",
     "role": "Sr Full stack Developer",
-    "stack": "fullstack",
+    "stack": "backend",
     "date": "September 2022 - to this day",
     "image": "/showcase.jpg",
     "responsibilities": [
@@ -12,7 +34,7 @@
     ]
   },
   {
-    "id": 2,
+    "id": 3,
     "company": "Progress Residential for HireRising",
     "role": "Freelance Sr Full stack Developer",
     "stack": "fullstack",
@@ -24,7 +46,7 @@
     ]
   },
   {
-    "id": 3,
+    "id": 4,
     "company": "Stateside Sephora E-commerce",
     "role": "Sr Full stack Lead Developer",
     "stack": "fullstack",
@@ -35,32 +57,7 @@
     ]
   },
   {
-    "id": 4,
-    "company": "Stateside Sephora E-commerce",
-    "role": "Sr Full stack Lead Developer ",
-    "stack": "fullstack",
-    "date": "September 2022 - to this day",
-    "image": "/com.jpg",
-    "responsibilities": [
-      "This project is a freelance project I did for an adult entertainment company in Canada with 2 other devs that work with me on freelance projects, essentially a live streaming video website with an API, a dashboard to manage the website and the productions side which is the one that has all the video and content: Payment Processing with Paypal ,Stripe, debit and credit cards and crypto payments with Coinbase CommerceLive streaming with Cloudflare API",
-      "Age verification",
-      "Shopping Cart",
-      "User Access Control , account creation, profiles,signin/up,membership levels API Repo documented with Swagger Front End Repo that uses Redux, NextJS/ReactJs,",
-      "JWT to handle authentication",
-      "Auth0 for the login",
-      "Redux",
-      "MongoDB",
-      "Mongoose",
-      "Newsletter",
-      "LazyLoading",
-      "NodeJS CI/CD",
-      "Express",
-      "Jest",
-      "Dockers"
-    ]
-  },
-  {
-    "id": 5,
+    "id": 6,
     "company": "EX2 Outcoding Costa Rica ",
     "role": "Sr. Front End Developer, Sr React Typescript developer ",
     "stack": "frontend",
@@ -73,7 +70,7 @@
     ]
   },
   {
-    "id": 6,
+    "id": 7,
     "company": "Scotia Bank Costa Rica",
     "role": "Sr. Web Developer, Sr React developer ",
     "stack": "frontend",
@@ -84,7 +81,7 @@
     ]
   },
   {
-    "id": 7,
+    "id": 8,
     "company": "Gorilla Logic ",
     "role": "Sr. React Developer, Node developer ",
     "stack": "backend",
@@ -95,7 +92,7 @@
     ]
   },
   {
-    "id": 8,
+    "id": 9,
     "company": "3Share",
     "role": "Sr. AEM Web Developer ",
     "stack": "backend",
@@ -106,7 +103,7 @@
     ]
   },
   {
-    "id": 9,
+    "id": 10,
     "company": "Hangar Interactive ",
     "role": "Front End Developer",
     "stack": "frontend",
@@ -116,6 +113,29 @@
       "Working for two different accounts Omnicom Health Group and Nissan & Infinity account.",
       "On OHG I was in charge Front End tasks, using the current Front End technologies such as javascript(Reactjs), task managers such as webpack, gulp and grunt, html5, nodejs, preprocessors such as less and sass, etc.",
       "On the other hand, for Nissan & Infiniti, I was in charge of managing content and also creating new components for promotions and campaigns for Nissan USA and Latam, AEM Adobe Experience Manager was the CMS used and the technologies were pure JavaScript and html, with a little bit of Java for the creation of dialogues, SQL, API Restful."
+    ]
+  },
+  {
+    "id": 11,
+    "company": "Prodigious",
+    "role": "Sr Full stack Developer",
+    "stack": "fullstack",
+    "date": "September 2022 - to this day",
+    "image": "/showcase.jpg",
+    "responsibilities": [
+      "Currently working on this fintech project as a Sr Fullstack Developer, creating components from scratch with  Angular typescript for the front end and integrating them with the many micro services the company",
+      "has, we use nodeTS for the backend, using lambdas for the endpoints and creating models and entities for the database, the micro services architecture requires the developers to integrate different API’s in order to create the endpoints needed for the API calls, we also use AWS, PostgreSQL, and do database migration for new columns with NodeTS, we work under the agile methodologies(SCRUM) and we do all the ceremonies from stand up to sprint planning up to retro to find the gaps and correct them immediately, on this project I’ve been working more as backend developer but I had the chance to create a new section for credit reporting recently and work on the front end."
+    ]
+  },
+  {
+    "id": 12,
+    "company": "Accenture",
+    "role": "Freelance Sr Full stack Developer",
+    "stack": "fullstack",
+    "date": "February 2022 – February 2023",
+    "image": "/com.jpg",
+    "responsibilities": [
+      "I was working on this real state project as a Freelancer , Sr Fullstack Developer, creating components from scratch with Zeplin on StoryBook with React typescript for the front end and integrating them in the nextJS app, and nodeTS for the backend, using lambdas for the endpoints and creating models and entities for the database documentation. I give technical support to QA when things get a bit high level and they need to test API’s, swagger documentation or even CORS issues, I’m basically involved in all cycles of software development on my projects, we cultivate respect and collaboration to reach our sprint projections, quality comes first and we definitely test our components with jest, then we must pass the pipeline where we use sonar cloud with a minimum of 80% of test coverage and percy from browserstack to approve ui builds on the code reviews, so testing is very important for this project,"
     ]
   }
 ]

@@ -40,3 +40,6 @@ export class ContactSubmissionsController {
     return this.contactSubmissionsService.remove(+id);
   }
 }
+
+  
+

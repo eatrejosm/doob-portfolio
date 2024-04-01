@@ -27,4 +27,7 @@ export class ContactSubmissionsService {
   remove(id: number) {
     return this.prisma.contactSubmission.delete({ where: { id } })
   }
+  
+
+
 }
