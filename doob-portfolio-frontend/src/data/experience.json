@@ -72,7 +72,7 @@
   {
     "id": 7,
     "company": "Scotia Bank Costa Rica",
-    "role": "Sr. Web Developer, Sr React developer ",
+    "role": "Sr.React Frontend Developer ",
     "stack": "frontend",
     "date": "October 2019 – December 31 2020",
     "image": "/com.jpg",
@@ -105,7 +105,7 @@
   {
     "id": 10,
     "company": "Hangar Interactive ",
-    "role": "Front End Developer",
+    "role": "Frontend Developer",
     "stack": "frontend",
     "date": "MAY 2018 – SEP 2018, HEREDIA, COSTA RICA ",
     "image": "/showcase.jpg",
@@ -118,8 +118,8 @@
   {
     "id": 11,
     "company": "Prodigious",
-    "role": "Sr Full stack Developer",
-    "stack": "fullstack",
+    "role": "Frontend Developer",
+    "stack": "frontend",
     "date": "September 2022 - to this day",
     "image": "/showcase.jpg",
     "responsibilities": [
@@ -130,8 +130,8 @@
   {
     "id": 12,
     "company": "Accenture",
-    "role": "Freelance Sr Full stack Developer",
-    "stack": "fullstack",
+    "role": "Web Developer",
+    "stack": "frontend",
     "date": "February 2022 – February 2023",
     "image": "/com.jpg",
     "responsibilities": [
